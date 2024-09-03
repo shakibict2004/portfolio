@@ -1,0 +1,38 @@
+.huk{
+      
+    padding: 10px 10px;
+  }
+  .huk :hover{
+    background: linear-gradient(135deg, #08081f, #0909c2); 
+    transition: .9s;
+    cursor: pointer;
+  }
+  .text H1{
+    font-size: 70PX;
+    font-weight: 500;
+    padding-top: 40PX;
+
+  }
+  .text h5{
+    font-size: 28px;
+    padding-top: 30px;
+    font-weight: 600px;
+  }
+  /* .dhur h4{
+   padding-top: 10px;
+  } */
+  .dhur h5{
+    
+    padding-top: 50px;
+    border-radius: 5px;
+  }
+  .dhur h2{
+    
+    padding-top: 50px;
+    border-radius: 5px;
+  }
+  .dhur h4{
+    
+    padding-top: 50px;
+    border-radius: 5px;
+  }

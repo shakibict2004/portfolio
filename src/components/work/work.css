@@ -1,0 +1,38 @@
+.text{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+
+
+
+.tipe{
+    padding-top: 40px;
+     text-align: center;
+     align-items: center;
+ }
+ .tipe a{
+     
+     
+     text-decoration: none;
+    padding: 10px;
+     font-size: 20px;
+     color: rgb(13, 13, 14);
+     font-weight: 800;
+   }
+  .tipe a:hover{
+     background-color: black;
+     color: #fff;
+  
+     transition: .9s;
+     border-radius: 50px;
+  }
+  .img img{
+    width: 300px;
+   }
+   .text h2{
+    font-size: 70px;
+    padding-top: 15px;
+    font-weight: 900;
+   }
