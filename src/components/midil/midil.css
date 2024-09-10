@@ -1,0 +1,50 @@
+.ones img{
+    height: 650px;
+    width: 95%;
+    border-radius: 10%;
+    padding-top: 50px;
+    position: relative;
+}
+.ones img:hover{
+    transform: scale(1.1);
+    transition: 1.1s;  
+}
+.one h2{
+    margin-bottom: 300px;
+    padding-left: 100px;
+    position: absolute;
+}
+.two h4{
+    padding-top: 45px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.two h1{
+    padding-top: 15px;
+    font-size: 55px;
+    font-weight: 600;
+}
+.two h6{
+    padding-top: 15px;
+    font-size: 22px;
+    font-weight: 400;
+}
+.two h5{
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+ .btn button {
+    border-radius: 20px;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+    background-color: rgb(23, 78, 229);
+}
+.btn button:hover{
+    background-color: cornsilk;
+    transform: scale(1.1);
+    transition: 1.1s;
+    
+}

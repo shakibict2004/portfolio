@@ -47,7 +47,7 @@ color: rgb(14, 13, 13);
     font-weight: 500;
     }
     .tell button:hover{
-        background: linear-gradient(135deg, #0a0aa7, #070758); /* Dark blue gradient */
+        background: linear-gradient(135deg, #0a0aa7, #121212); /* Dark blue gradient */
         background-position: -100%;
         transition: .9s;
             color:#fff;

@@ -1,0 +1,26 @@
+.tops {
+padding-top: 80px;
+}
+.tops h4{
+    font-size: 20px;
+    color: rgb(223, 93, 37);
+}
+.tops h6{
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+.topss button{
+    background-color: rgb(62, 62, 211);
+    color: #fff;
+    border-radius: 20px;
+    margin-top: 220px;
+    font-size: 27px;
+    margin-left: 50px;
+    padding: 8px 20px;
+}
+.topss button:hover{
+    transform: scale(1.1);
+    transition: 1.10s;  
+    
+}

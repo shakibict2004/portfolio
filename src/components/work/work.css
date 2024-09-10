@@ -1,38 +1,28 @@
-.text{
-    text-align: center;
-    font-size: 50px;
-    padding-top: 20px;
-}
-
-
-
-
-.tipe{
-    padding-top: 40px;
-     text-align: center;
-     align-items: center;
- }
- .tipe a{
+.ss{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 100%;
+    }
+    .ss h1{
+        text-align: center;
+    }
+    #jero{
+        padding-top: 100px;
+        background-color: bisque;
+        margin-top: 40px;
+    }
+    .one h3{
+        font-size: 40px;
+    }
+    .one h1{
+        font-size: 80px;
+    }
+    .one p{
+        font-size: 25px;
+    }
+    .six h2{
+        font-size: 45;
+       padding: 30px 20px;
+       background-color: rgba(58, 123, 220, 0.008);
      
-     
-     text-decoration: none;
-    padding: 10px;
-     font-size: 20px;
-     color: rgb(13, 13, 14);
-     font-weight: 800;
-   }
-  .tipe a:hover{
-     background-color: black;
-     color: #fff;
-  
-     transition: .9s;
-     border-radius: 50px;
-  }
-  .img img{
-    width: 300px;
-   }
-   .text h2{
-    font-size: 70px;
-    padding-top: 15px;
-    font-weight: 900;
-   }
+    }

@@ -1,0 +1,58 @@
+#main{
+    background-color:bisque;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+
+.one h2{
+    padding-top: 40px;
+    font-size: 30px;
+}
+.one h4{
+    padding-top: 80px;
+    font-size: 60px;
+}
+.two h3{
+    padding-top: 40px;
+    font-size: 30px;  
+}
+.two p{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.two h6{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.tow{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.tow li{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+.tow ul li span:first-child{
+    font-size: 22px;
+    color: black;
+    font-weight:500;
+}
+.tow ul li span:last-child{
+    font-size: 25px;
+    color: black;
+    font-weight:700;  
+}
+.tumi img{
+    padding-top: 20px;
+    height: 500px;
+    width: 95%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.tumi img:hover{
+    transform:  scale(1.06);
+    transition: 1.1s;
+}

@@ -8,7 +8,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa6";
 import { IoLogoYoutube } from "react-icons/io";
 import { FaKickstarterK } from "react-icons/fa";
-import { CiTwitter } from "react-icons/ci";
+import { SiGmail } from "react-icons/si";
 const Banner = () => {
     const el = React.useRef(null);
 
@@ -34,6 +34,7 @@ const Banner = () => {
     <section id="man">
         <Container>
             <Row>
+           
               <Col lg={6}>
               { <div className="App">
       <span ref={el} />
@@ -43,11 +44,12 @@ const Banner = () => {
 </div>
                 <div className="btn">
                 <Button><div className="p"> Download CV</div></Button>
-                <a href=""><FaFacebookF /></a>
-                <a href=""><IoLogoYoutube /></a>
-                <a href=""><FaGithub /></a>
+                <a href="https://www.facebook.com/profile.php?id=100038036028742&mibextid=ZbWKwL"><FaFacebookF /></a>
+                <a href="https://www.youtube.com/"><IoLogoYoutube /></a>
+                <a href="https://github.com/shakibict2004"><FaGithub /></a>
                 <a href=""><FaKickstarterK /></a>
-                <a href=""> <CiTwitter /></a>
+                <a href=""><SiGmail /></a>
+                
 
               </div>
               </Col>  
@@ -56,36 +58,6 @@ const Banner = () => {
               <img src={img} alt="" /> 
               </div>
               </Col>
-            </Row>
-            <Row>
-        <Col lg={3}>
-        <div className="hipe">
-      <a href="">14</a>
-        <h5>Years of
-            Experience</h5>
-        </div>
-        </Col>
-        <Col lg={3}>
-        <div className="hipe">
-      <a href="">50+</a>
-        <h5>Project
-        Completed</h5>
-        </div>
-        </Col>
-        <Col lg={3}>
-        <div className="hipe">
-      <a href="">1.5k</a>
-        <h5>Happy
-        Clients</h5>
-        </div>
-        </Col>
-        <Col lg={3}>
-        <div className="hipe">
-      <a href="">14</a>
-        <h5>Years of
-            Experience</h5>
-        </div>
-        </Col>
             </Row>
         </Container>
     </section>
